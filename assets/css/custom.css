@@ -1,0 +1,28 @@
+.custom-table tbody tr th {
+    width: 50%;
+}
+
+.custom-table tbody tr td {
+    width: 50%;
+}
+
+.navbar-brand, .navbar-brand>img {
+    width: 9rem;
+}
+
+.brand {
+    max-width: 9rem;
+}
+
+.customBtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    font-size: .75rem;
+}
+
+.customFormControl {
+    height: 40px;
+    font-size: .75rem;
+}
